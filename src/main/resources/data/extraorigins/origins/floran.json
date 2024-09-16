@@ -4,7 +4,7 @@
 	"extraorigins:photosynthesis",
 	"extraorigins:absorbing",
 	"extraorigins:flammable",
-	"extraorigins:nectarivore"
+	"origins:carnivore"
   ],
   "icon": "minecraft:oak_sapling",
   "order": 1,
